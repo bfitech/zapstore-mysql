@@ -7,6 +7,9 @@ namespace BFITech\ZapStore;
 use BFITech\ZapCore\Logger;
 
 
+/**
+ * MySQL class.
+ */
 class MySQL extends SQL {
 
 	/**
