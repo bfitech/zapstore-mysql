@@ -3,8 +3,6 @@
   "description": "MySQL support for zapstore.",
   "type": "library",
   "license": "MIT",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
   "authors": [
     {
       "name": "Rendra Suroso",
@@ -15,7 +13,7 @@
     "php": ">=5.5 || ~7.0",
     "ext-mysqlnd": "*",
     "ext-pdo_mysql": "*",
-    "bfitech/zapstore": "1.3.x-dev"
+    "bfitech/zapstore": "~1.3.3"
   },
   "require-dev": {
     "phpunit/phpunit": "~4.8"
