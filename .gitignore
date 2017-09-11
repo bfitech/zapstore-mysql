@@ -6,10 +6,9 @@
 *.conf
 *.ini
 *.sq3
-.htaccess
 composer.lock
-zapstore-test.*
 
 /vendor/
 /docs/
+/tests/testdata/
 
